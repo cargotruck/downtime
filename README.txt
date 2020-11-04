@@ -1,6 +1,6 @@
 DOWNTIME
 
-downtime written by nicholas.flesch@outlook.com
+downtime written by cargotruck@hotmail.com
 last modified: 02 November 2020
 
 downtime is a utility designed to help IT administrators
